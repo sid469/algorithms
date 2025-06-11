@@ -7,5 +7,5 @@
 --------
 4.file_4 demonstrates the use of polynomial muliplication using karastuba's method,. It also uses binary exponentiation to find the powers of a matrix.
 --------
-5.file_5.cpp demonstrates the use of finding primes using segmented seive.
+5.file_5.cpp demonstrates the use of finding primes using segmented sieve.
 --------
