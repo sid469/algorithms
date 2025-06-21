@@ -9,3 +9,4 @@
 --------
 5.file_5.cpp demonstrates the use of finding primes using segmented sieve.
 --------
+6.file_6.cpp demonstrates the use of binary lifting to find lca
